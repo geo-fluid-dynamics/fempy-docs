@@ -1,2 +1,2 @@
-# fempy-docs
-A separate repo for FemPy docs and images, because version controlling docs and images gets expensive
+# sunfire-docs
+This is a separate repo for Sunfire's large documenation and images, because version controlling large documents and images gets expensive.
